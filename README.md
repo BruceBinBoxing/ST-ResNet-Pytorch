@@ -9,7 +9,7 @@ A Demo (with dataset BikeNYC) of Deep Spatio-Temporal Residual Networks (ST-ResN
 * Pytorch 1.0
 
 ## Usage
-	This is only a demo project for reference.
+	This is only a demo codes for reference.
 
     $ python train_bikenyc_stresnet.py
 
