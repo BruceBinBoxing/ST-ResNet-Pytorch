@@ -1,6 +1,6 @@
 # ST-ResNet in PyTorch
 
-A Demo (with dataset BikeNYC) of Deep Spatio-Temporal Residual Networks (ST-ResNet) from the paper ["Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction"](https://arxiv.org/abs/1610.00081). 
+ Demo code snippets (with dataset BikeNYC) of Deep Spatio-Temporal Residual Networks (ST-ResNet) from the paper ["Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction"](https://arxiv.org/abs/1610.00081). 
 
 
 ## Prerequisites
@@ -9,9 +9,7 @@ A Demo (with dataset BikeNYC) of Deep Spatio-Temporal Residual Networks (ST-ResN
 * Pytorch 1.0
 
 ## Usage
-	This is only a demo codes for reference.
-
-    $ python train_bikenyc_stresnet.py
+	This is only demo code snippets for reference.
 
 ## Reference
 
